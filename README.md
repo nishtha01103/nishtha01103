@@ -1,7 +1,5 @@
 ## Hi there 👋
 💻 Aspiring Software Engineer | 🎓 CS Undergrad at MUJ | 💡 Tech Enthusiast & Problem Solver
-[IMG_8196](https://github.com/user-attachments/assets/7e736399-cebe-426d-a759-237c59cd0e59)
-
 
 🌱 **Currently Learning**  
 - Full-Stack Web Development (MERN Stack)  
